@@ -1,5 +1,6 @@
 {
     "require": {
-        "doctrine/annotations": "^2.0"
+        "doctrine/annotations": "^2.0",
+        "doctrine/orm": "^2.15"
     }
 }
